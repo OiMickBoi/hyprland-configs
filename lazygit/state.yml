@@ -1,0 +1,24 @@
+lastupdatecheck: 0
+recentrepos:
+    - /home/josh/.config
+    - /home/josh/mysystem
+    - /home/josh/Code/threejs-tutorial
+    - /home/josh/Code/Ghibli-Trees
+    - /home/josh/Code/vim-clone
+    - /home/josh/Code/Algorithm-Visualizer
+    - /home/josh/Books
+    - /home/josh/Code/Personal-Site
+    - /home/josh/Code/QC
+startuppopupversion: 5
+lastversion: 0.44.1
+customcommandshistory:
+    - x
+    - q
+hidecommandlog: true
+ignorewhitespaceindiffview: false
+diffcontextsize: 3
+renamesimilaritythreshold: 50
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always
